@@ -1,0 +1,15 @@
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\Testy\bin\Debug\net8.0\Testy.exe
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\Testy\bin\Debug\net8.0\Testy.deps.json
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\Testy\bin\Debug\net8.0\Testy.runtimeconfig.json
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\Testy\bin\Debug\net8.0\Testy.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\Testy\bin\Debug\net8.0\Testy.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\Testy\obj\Debug\net8.0\Testy.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\Testy\obj\Debug\net8.0\Testy.AssemblyInfoInputs.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\Testy\obj\Debug\net8.0\Testy.AssemblyInfo.cs
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\Testy\obj\Debug\net8.0\Testy.csproj.CoreCompileInputs.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\Testy\obj\Debug\net8.0\Testy.sourcelink.json
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\Testy\obj\Debug\net8.0\Testy.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\Testy\obj\Debug\net8.0\refint\Testy.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\Testy\obj\Debug\net8.0\Testy.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\Testy\obj\Debug\net8.0\Testy.genruntimeconfig.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\Testy\obj\Debug\net8.0\ref\Testy.dll

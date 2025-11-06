@@ -1,0 +1,104 @@
+{
+  "cards": [
+    {
+      "team": "Neutral",
+      "word": "phone"
+    },
+    {
+      "team": "Neutral",
+      "word": "bike"
+    },
+    {
+      "team": "Blue",
+      "word": "car"
+    },
+    {
+      "team": "Neutral",
+      "word": "door"
+    },
+    {
+      "team": "Red",
+      "word": "road"
+    },
+    {
+      "team": "Blue",
+      "word": "cloud"
+    },
+    {
+      "team": "Neutral",
+      "word": "sun"
+    },
+    {
+      "team": "Neutral",
+      "word": "bus"
+    },
+    {
+      "team": "Blue",
+      "word": "dog"
+    },
+    {
+      "team": "Blue",
+      "word": "paper"
+    },
+    {
+      "team": "Assasin",
+      "word": "roof"
+    },
+    {
+      "team": "Neutral",
+      "word": "mountain"
+    },
+    {
+      "team": "Red",
+      "word": "bridge"
+    },
+    {
+      "team": "Red",
+      "word": "star"
+    },
+    {
+      "team": "Red",
+      "word": "stone"
+    },
+    {
+      "team": "Blue",
+      "word": "grass"
+    },
+    {
+      "team": "Red",
+      "word": "book"
+    },
+    {
+      "team": "Neutral",
+      "word": "lamp"
+    },
+    {
+      "team": "Blue",
+      "word": "sand"
+    },
+    {
+      "team": "Blue",
+      "word": "flower"
+    },
+    {
+      "team": "Red",
+      "word": "train"
+    },
+    {
+      "team": "Neutral",
+      "word": "key"
+    },
+    {
+      "team": "Neutral",
+      "word": "wall"
+    },
+    {
+      "team": "Red",
+      "word": "garden"
+    },
+    {
+      "team": "Blue",
+      "word": "tree"
+    }
+  ]
+}

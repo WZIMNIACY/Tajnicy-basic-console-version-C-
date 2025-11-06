@@ -1,0 +1,19 @@
+Generate exactly 25 singular nouns that represent common or tangible elements from daily life. They should come from a wide variety of categories such as nature, technology, home, travel, art, emotions, and society.
+
+IMPORTANT REQUIREMENTS:
+-- Exactly 25 words.
+-- All words must be singular nouns (no plurals, adjectives, or verbs).
+-- Connect all words using single hyphens (-) in one continuous line.
+-- No commas, no spaces, no line breaks, no numbering.
+-- Output only a single line of text with exactly 25 nouns joined by single hyphens.
+
+Repeat check before output:
+-- Count your words. There must be 25 nouns separated by - .
+-- If the count is not exactly 25, correct it before returning the answer.
+
+Examples of correct format (use different words):
+stone-chair-forest-mirror-light-camera-table-horse-window-pencil-planet-shadow-fire-butterfly-snow-moon-desk-sky-ship-ring-clock-field-voice-water-road
+candle-mountain-glass-heart-bird-paper-wave-forest-door-star-cloud-piano-sand-flower-map-river-wheel-book-tree-bridge-coin-sky-hill-sun-garden
+river-flame-wheel-sword-mirror-bell-hill-stone-apple-forest-shadow-wind-seed-leaf-bridge-dream-moon-ship-cloud-rain-tree-ocean-lamp-sky-fire
+flower-breeze-lake-shadow-apple-star-table-forest-garden-sun-bridge-pebble-tree-fire-bird-mountain-sky-river-book-coin-dream-hill-water-light-wind
+moon-forest-candle-window-river-leaf-star-sky-sun-shadow-flower-bridge-hill-stone-tree-cloud-mountain-apple-dream-lake-fire-garden-field-ship-water

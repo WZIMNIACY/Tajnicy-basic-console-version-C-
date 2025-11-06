@@ -1,0 +1,30 @@
+[
+  {
+    "team": "Red",
+    "word": "sky"
+  },
+  {
+    "team": "Red",
+    "word": "stone"
+  },
+  {
+    "team": "Red",
+    "word": "window"
+  },
+  {
+    "team": "Red",
+    "word": "pencil"
+  },
+  {
+    "team": "Red",
+    "word": "moon"
+  },
+  {
+    "team": "Red",
+    "word": "ship"
+  },
+  {
+    "team": "Red",
+    "word": "planet"
+  }
+]

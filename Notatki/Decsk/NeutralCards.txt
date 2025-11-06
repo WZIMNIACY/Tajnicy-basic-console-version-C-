@@ -1,0 +1,34 @@
+[
+  {
+    "team": "Neutral",
+    "word": "ring"
+  },
+  {
+    "team": "Neutral",
+    "word": "field"
+  },
+  {
+    "team": "Neutral",
+    "word": "butterfly"
+  },
+  {
+    "team": "Neutral",
+    "word": "fire"
+  },
+  {
+    "team": "Neutral",
+    "word": "table"
+  },
+  {
+    "team": "Neutral",
+    "word": "horse"
+  },
+  {
+    "team": "Neutral",
+    "word": "snow"
+  },
+  {
+    "team": "Neutral",
+    "word": "light"
+  }
+]

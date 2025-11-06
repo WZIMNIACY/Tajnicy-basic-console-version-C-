@@ -1,0 +1,34 @@
+[
+  {
+    "team": "Blue",
+    "word": "shadow"
+  },
+  {
+    "team": "Blue",
+    "word": "mirror"
+  },
+  {
+    "team": "Blue",
+    "word": "road"
+  },
+  {
+    "team": "Blue",
+    "word": "forest"
+  },
+  {
+    "team": "Blue",
+    "word": "desk"
+  },
+  {
+    "team": "Blue",
+    "word": "camera"
+  },
+  {
+    "team": "Blue",
+    "word": "clock"
+  },
+  {
+    "team": "Blue",
+    "word": "chair"
+  }
+]

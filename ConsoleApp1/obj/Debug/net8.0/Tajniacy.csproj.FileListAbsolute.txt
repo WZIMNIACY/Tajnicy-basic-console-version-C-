@@ -1,0 +1,15 @@
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\ConsoleApp1\obj\Debug\net8.0\Tajniacy.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\ConsoleApp1\obj\Debug\net8.0\Tajniacy.AssemblyInfoInputs.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\ConsoleApp1\obj\Debug\net8.0\Tajniacy.AssemblyInfo.cs
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\ConsoleApp1\obj\Debug\net8.0\Tajniacy.csproj.CoreCompileInputs.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\ConsoleApp1\obj\Debug\net8.0\Tajniacy.sourcelink.json
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\ConsoleApp1\bin\Debug\net8.0\Tajniacy.exe
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\ConsoleApp1\bin\Debug\net8.0\Tajniacy.deps.json
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\ConsoleApp1\bin\Debug\net8.0\Tajniacy.runtimeconfig.json
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\ConsoleApp1\bin\Debug\net8.0\Tajniacy.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\ConsoleApp1\bin\Debug\net8.0\Tajniacy.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\ConsoleApp1\obj\Debug\net8.0\Tajniacy.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\ConsoleApp1\obj\Debug\net8.0\refint\Tajniacy.dll
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\ConsoleApp1\obj\Debug\net8.0\Tajniacy.pdb
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\ConsoleApp1\obj\Debug\net8.0\Tajniacy.genruntimeconfig.cache
+D:\OneDrive\Studia\Rok 2\Semestr 3\Inzynieria Oprogramowania\Kodowanie\Testowanie AI\Tajniacy\ConsoleApp1\obj\Debug\net8.0\ref\Tajniacy.dll

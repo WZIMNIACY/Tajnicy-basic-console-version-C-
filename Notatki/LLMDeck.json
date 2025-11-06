@@ -1,0 +1,96 @@
+{
+  "cards": [
+    {
+      "team": "Red",
+      "word": "sky"
+    },
+    {
+      "team": "Neutral",
+      "word": "ring"
+    },
+    {
+      "team": "Neutral",
+      "word": "field"
+    },
+    {
+      "team": "Red",
+      "word": "stone"
+    },
+    {
+      "team": "Blue",
+      "word": "road"
+    },
+    {
+      "team": "Blue",
+      "word": "forest"
+    },
+    {
+      "team": "Blue",
+      "word": "desk"
+    },
+    {
+      "team": "Neutral",
+      "word": "butterfly"
+    },
+    {
+      "team": "Red",
+      "word": "window"
+    },
+    {
+      "team": "Neutral",
+      "word": "fire"
+    },
+    {
+      "team": "Neutral",
+      "word": "table"
+    },
+    {
+      "team": "Red",
+      "word": "pencil"
+    },
+    {
+      "team": "Neutral",
+      "word": "horse"
+    },
+    {
+      "team": "Red",
+      "word": "moon"
+    },
+    {
+      "team": "Neutral",
+      "word": "snow"
+    },
+    {
+      "team": "Assasin",
+      "word": "voice"
+    },
+    {
+      "team": "Neutral",
+      "word": "water"
+    },
+    {
+      "team": "Neutral",
+      "word": "light"
+    },
+    {
+      "team": "Blue",
+      "word": "camera"
+    },
+    {
+      "team": "Red",
+      "word": "ship"
+    },
+    {
+      "team": "Red",
+      "word": "planet"
+    },
+    {
+      "team": "Blue",
+      "word": "clock"
+    },
+    {
+      "team": "Blue",
+      "word": "chair"
+    }
+  ]
+}

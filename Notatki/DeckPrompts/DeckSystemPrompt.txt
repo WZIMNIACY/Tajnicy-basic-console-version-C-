@@ -1,0 +1,8 @@
+- Generate 30 words
+- these words are nouns
+- these words are from variuos fileds of daily life
+- words are separated with "-" symbol
+- as an output give me only words separated with "-" symbol
+
+Example (try not to use words from example):
+stone-chair-forest-mirror-light-camera-table-horse-window-pencil-planet-shadow-fire-butterfly-snow-moon-desk-sky-ship-ring-clock-field-voice-water-road
